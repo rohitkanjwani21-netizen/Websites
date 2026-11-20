@@ -1,0 +1,20 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2d49b"></stop>
+      <stop offset="55%" stop-color="#c79b58"></stop>
+      <stop offset="100%" stop-color="#8c6538"></stop>
+    </linearGradient>
+  </defs>
+
+  <path d="M112 66 L121 31 L148 53 L160 17 L174 53 L201 31 L209 66 Z" fill="url(#gold)"></path>
+  <path d="M112 73 H209" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"></path>
+
+  <g fill="#fffaf2" font-family="Georgia,serif" font-weight="bold">
+    <text x="43" y="214" font-size="174" letter-spacing="-22">R</text>
+    <text x="143" y="234" font-size="166" letter-spacing="-20">K</text>
+  </g>
+
+  <path d="M56 251 C123 283 226 265 275 202" fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"></path>
+</svg>
